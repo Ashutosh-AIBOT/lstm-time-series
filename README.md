@@ -1,3 +1,13 @@
+---
+title: LSTM Time Series
+emoji: 🚀
+colorFrom: indigo
+colorTo: pink
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # 🧠 LSTM Time Series Forecasting
 
 [![Framework](https://img.shields.io/badge/Framework-PyTorch_2.5-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org)
